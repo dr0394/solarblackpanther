@@ -60,7 +60,7 @@ export default function Services() {
           <img
             src="https://alkaio.com/media/25409323492092372.jpeg"
             alt="Professionelle Installation von Solar- und Wärmepumpenanlagen"
-            className="w-full h-[400px] object-cover"
+            className="w-full h-[400px] object-contain bg-gray-100"
           />
         </div>
       </div>

@@ -67,6 +67,14 @@ export default function Trust() {
             </div>
           </div>
         </div>
+
+        <div className="mt-16 rounded-2xl overflow-hidden shadow-2xl">
+          <img
+            src="https://i.imgur.com/R596HHJ.jpeg"
+            alt="Unsere Projekte und Installationen"
+            className="w-full h-auto object-contain"
+          />
+        </div>
       </div>
     </section>
   );
