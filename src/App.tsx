@@ -45,12 +45,13 @@ function App() {
       <Funding />
       <Projects />
 
+      <SocialProof />
+
       <ImageBanner
         imageUrl="https://i.imgur.com/S55DhYF.jpeg"
         alt="Moderne Wärmepumpen Installation"
       />
 
-      <SocialProof />
       <FAQ />
       <Contact onOpenForm={() => setShowForm(true)} />
       <ServiceArea />
