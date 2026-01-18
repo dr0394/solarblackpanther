@@ -46,6 +46,14 @@ export default function Hero({ onOpenForm }: HeroProps) {
               </p>
             </div>
 
+            <div className="bg-gradient-to-r from-emerald-600/90 to-green-600/90 backdrop-blur-sm p-6 rounded-xl mb-6 border-2 border-emerald-400/50 shadow-lg shadow-emerald-600/50">
+              <div className="text-center">
+                <div className="text-sm font-semibold text-white/90 uppercase tracking-wider mb-2">Jährliche Ersparnis</div>
+                <div className="text-5xl font-bold text-white mb-1">bis zu 92%</div>
+                <div className="text-sm text-white/90">Ihrer Energiekosten</div>
+              </div>
+            </div>
+
             <div className="space-y-4 mb-8">
               <div className="flex items-center space-x-3">
                 <div className="flex-shrink-0 w-6 h-6 bg-gradient-to-r from-emerald-600 to-green-600 rounded-full flex items-center justify-center shadow-lg shadow-emerald-600/40">
