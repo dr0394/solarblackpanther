@@ -37,7 +37,7 @@ export default function Services() {
             Unsere Leistungen
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Photovoltaik-Anlagen, Wärmepumpen und energetische Sanierungen - von der Planung über den Vertrieb bis zur Installation. Mit 22 Jahren Solar-Erfahrung und 20 Jahren Heizungs-Bau.
+            Unsere Leistungen Photovoltaik-Anlagen, Wärmepumpen und Energetische Sanierungen - von der Planung bis zu Installation und darüber Hinaus sind wir für sie da. Mit 22 Jahren Solar Erfahrung und 20 Jahre in Heizungs-Bau sollte das kein Problem sein.
           </p>
         </div>
 
