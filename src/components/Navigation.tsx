@@ -78,7 +78,7 @@ export default function Navigation({ onOpenForm }: NavigationProps) {
               onClick={onOpenForm}
               className="bg-primary-500 hover:bg-primary-600 text-white font-medium px-8 py-2.5 rounded-full transition-all duration-200 text-[15px]"
             >
-              Mein Haus
+              Geschäftspartner
             </button>
             <button className="p-2 text-gray-300 hover:text-primary-400 transition-colors">
               <Search size={20} />
