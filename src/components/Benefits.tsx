@@ -5,7 +5,7 @@ export default function Benefits() {
     {
       icon: Euro,
       title: 'Energiekosten senken',
-      description: 'Sparen Sie bis zu 92% Ihrer jährlichen Energiekosten durch eigenen Solarstrom und effiziente Wärmepumpen.',
+      description: 'Sparen Sie bis zu 72% Ihrer jährlichen Energiekosten durch eigenen Solarstrom und effiziente Wärmepumpen.',
       stat: 'bis zu 92%',
     },
     {
