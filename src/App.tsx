@@ -20,6 +20,7 @@ import WhatsAppButton from './components/WhatsAppButton';
 import MultiStepForm from './components/MultiStepForm';
 import SEO from './components/SEO';
 import StructuredData from './components/StructuredData';
+import ImageBanner from './components/ImageBanner';
 
 function App() {
   const [showForm, setShowForm] = useState(false);
@@ -35,9 +36,20 @@ function App() {
       <Services />
       <VaillantSection onOpenForm={() => setShowForm(true)} />
 
+      <ImageBanner
+        imageUrl="https://i.imgur.com/ShoyXcr.jpeg"
+        alt="Professionelle Heizungsinstallation"
+      />
+
       <Benefits />
       <Funding />
       <Projects />
+
+      <ImageBanner
+        imageUrl="https://i.imgur.com/S55DhYF.jpeg"
+        alt="Moderne Wärmepumpen Installation"
+      />
+
       <SocialProof />
       <FAQ />
       <Contact onOpenForm={() => setShowForm(true)} />
