@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .icon-hover-rotate {
+    transition: transform 0.3s ease-in-out;
+    transform-origin: center;
+  }
+
+  button:hover .icon-hover-rotate,
+  .container-hover:hover .icon-hover-rotate {
+    transform: rotate(180deg);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .icon-hover-rotate {
+      transition: none;
+    }
+
+    button:hover .icon-hover-rotate,
+    .container-hover:hover .icon-hover-rotate {
+      transform: none;
+    }
+  }
+}
