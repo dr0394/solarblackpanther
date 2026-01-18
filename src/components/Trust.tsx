@@ -1,4 +1,4 @@
-import { Shield, Award, FileCheck, Users } from 'lucide-react';
+import { Shield, Award, FileCheck, Users, Handshake, GraduationCap } from 'lucide-react';
 
 export default function Trust() {
   const trustElements = [
@@ -22,6 +22,16 @@ export default function Trust() {
       title: 'Persönliche Betreuung',
       description: 'Ihr fester Ansprechpartner begleitet Sie von der Planung bis zur Inbetriebnahme',
     },
+    {
+      icon: Handshake,
+      title: 'Starke Partnerschaften',
+      description: 'Langjährige Zusammenarbeit mit führenden Herstellern und Zulieferern für beste Qualität',
+    },
+    {
+      icon: GraduationCap,
+      title: 'Geschultes Team',
+      description: 'Regelmäßige Weiterbildungen und Zertifizierungen garantieren höchstes Fachwissen',
+    },
   ];
 
   return (
@@ -36,7 +46,7 @@ export default function Trust() {
           </p>
         </div>
 
-        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           {trustElements.map((element, index) => (
             <div
               key={index}
