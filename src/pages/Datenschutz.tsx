@@ -117,7 +117,7 @@ export default function Datenschutz() {
               76135 Karlsruhe<br />
               <br />
               Telefon: +4917675093299<br />
-              E-Mail: info@solar-black-panther.de
+              E-Mail: Ilyas.duyar@yahoo.de
             </p>
             <p className="text-gray-700 leading-relaxed mb-4">
               Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam
