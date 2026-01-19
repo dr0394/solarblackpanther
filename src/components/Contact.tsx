@@ -28,7 +28,7 @@ export default function Contact({ onOpenForm }: ContactProps) {
                 </div>
                 <div>
                   <div className="font-semibold text-gray-900 mb-1">Telefon</div>
-                  <a href="tel:+4972112345678" className="text-lg text-emerald-600 hover:text-emerald-700">
+                  <a href="tel:+4917675093299" className="text-lg text-emerald-600 hover:text-emerald-700">
                     0721 123 456 78
                   </a>
                   <p className="text-gray-600 text-sm">Mo-Fr 8:00 - 18:00 Uhr</p>
