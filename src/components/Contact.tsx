@@ -41,7 +41,7 @@ export default function Contact({ onOpenForm }: ContactProps) {
                 </div>
                 <div>
                   <div className="font-semibold text-gray-900 mb-1">E-Mail</div>
-                  <a href="mailto:info@solar-black-panther.de" className="text-lg text-emerald-600 hover:text-emerald-700">
+                  <a href="mailto:Ilyas.duyar@yahoo.de" className="text-lg text-emerald-600 hover:text-emerald-700">
                     info@solar-black-panther.de
                   </a>
                   <p className="text-gray-600 text-sm">Antwort innerhalb 24h</p>
