@@ -3,7 +3,7 @@ import { MessageCircle } from 'lucide-react';
 export default function WhatsAppButton() {
   const handleClick = () => {
     const message = 'Hallo Solar Black Panther Team, ich habe eine Frage zu Ihren Leistungen.';
-    const whatsappUrl = `https://wa.me/4972112345678?text=${encodeURIComponent(message)}`;
+    const whatsappUrl = `https://wa.me/4917675093299?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
   };
 

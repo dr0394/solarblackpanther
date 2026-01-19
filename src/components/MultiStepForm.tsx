@@ -46,7 +46,7 @@ Bitte kontaktieren Sie mich für ein individuelles Angebot.
 
 Vielen Dank!`;
 
-    const whatsappUrl = `https://wa.me/4972112345678?text=${encodeURIComponent(message)}`;
+    const whatsappUrl = `https://wa.me/4917675093299?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
     onClose();
   };
