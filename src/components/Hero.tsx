@@ -83,7 +83,7 @@ export default function Hero({ onOpenForm }: HeroProps) {
                 Jetzt Angebot anfordern
               </button>
               <a href="tel:+4972112345678" className="text-emerald-500 hover:text-emerald-400 font-semibold">
-                0721 123 456 78
+                +4917675093299
               </a>
             </div>
 
