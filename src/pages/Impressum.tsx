@@ -40,7 +40,7 @@ export default function Impressum() {
             <h2 className="text-2xl font-bold text-gray-900 mb-4">Kontakt</h2>
             <p className="text-gray-700 leading-relaxed">
               Telefon: +4917675093299<br />
-              E-Mail: info@solar-black-panther.de
+              E-Mail: Ilyas.duyar@yahoo.de
             </p>
           </section>
 
