@@ -63,7 +63,7 @@ export default function Footer() {
               <li>
                 <a href="mailto:Ilyas.duyar@yahoo.de" className="flex items-center space-x-3 text-gray-400 hover:text-primary-400 transition">
                   <Mail size={18} />
-                  <span>info@solar-black-panther.de</span>
+                  <span>Ilyas.duyar@yahoo.de</span>
                 </a>
               </li>
               <li>
