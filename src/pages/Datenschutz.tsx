@@ -116,7 +116,7 @@ export default function Datenschutz() {
               Scheffelstr 60<br />
               76135 Karlsruhe<br />
               <br />
-              Telefon: 0721 123 456 78<br />
+              Telefon: +4917675093299<br />
               E-Mail: info@solar-black-panther.de
             </p>
             <p className="text-gray-700 leading-relaxed mb-4">
