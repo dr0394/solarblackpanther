@@ -27,7 +27,7 @@ export default function FinalCTA({ onOpenForm }: FinalCTAProps) {
             className="flex items-center space-x-3 bg-white hover:bg-gray-100 text-dark-900 font-bold px-10 py-5 text-xl transition shadow-xl rounded-xl"
           >
             <Phone size={24} className="icon-hover-rotate" />
-            <span>0721 123 456 78</span>
+            <span>+4917675093299</span>
           </a>
         </div>
 
