@@ -103,7 +103,7 @@ export default function VaillantSection({ onOpenForm }: VaillantSectionProps) {
                 href="tel:+4972112345678"
                 className="bg-white/10 backdrop-blur-sm border border-white/20 hover:bg-white/20 text-white font-bold px-8 py-4 text-lg transition rounded-xl text-center"
               >
-                0721 123 456 78
+                +4917675093299
               </a>
             </div>
           </div>
