@@ -9,7 +9,7 @@ export default function StructuredData() {
       "image": "https://yourdomain.de/logo.jpg",
       "@id": "https://yourdomain.de",
       "url": "https://yourdomain.de",
-      "telephone": "+49-721-123-456-78",
+      "telephone": "+49-176-75093299",
       "priceRange": "€€€",
       "address": {
         "@type": "PostalAddress",

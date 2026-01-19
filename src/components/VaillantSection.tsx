@@ -100,7 +100,7 @@ export default function VaillantSection({ onOpenForm }: VaillantSectionProps) {
                 Beratung anfordern
               </button>
               <a
-                href="tel:+4972112345678"
+                href="tel:+4917675093299"
                 className="bg-white/10 backdrop-blur-sm border border-white/20 hover:bg-white/20 text-white font-bold px-8 py-4 text-lg transition rounded-xl text-center"
               >
                 +4917675093299

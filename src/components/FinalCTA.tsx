@@ -23,7 +23,7 @@ export default function FinalCTA({ onOpenForm }: FinalCTAProps) {
             Jetzt Angebot anfordern
           </button>
           <a
-            href="tel:+4972112345678"
+            href="tel:+4917675093299"
             className="flex items-center space-x-3 bg-white hover:bg-gray-100 text-dark-900 font-bold px-10 py-5 text-xl transition shadow-xl rounded-xl"
           >
             <Phone size={24} className="icon-hover-rotate" />
