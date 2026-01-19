@@ -70,7 +70,7 @@ Bitte kontaktieren Sie mich für ein individuelles Angebot.
 
 Vielen Dank!`;
 
-    const mailtoUrl = `mailto:info@solar-black-panther.de?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    const mailtoUrl = `mailto:Ilyas.duyar@yahoo.de?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
     window.location.href = mailtoUrl;
     onClose();
   };
