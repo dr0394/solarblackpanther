@@ -1,4 +1,4 @@
-import { Check } from 'lucide-react';
+ import { Check } from 'lucide-react';
 
 interface HeroProps {
   onOpenForm: () => void;
@@ -38,7 +38,7 @@ export default function Hero({ onOpenForm }: HeroProps) {
               </span>
             </h1>
             <p className="text-xl text-gray-100 mb-8 font-medium">
-              Mit über 22 Jahren Erfahrung in der Solarbranche macht Solar Black Panther Sie unabhängig von steigenden Energiepreisen. Wir sind Ihr Partner für hochwertige Photovoltaik-Anlagen, Wärmepumpen und energetische Sanierungen in Karlsruhe und ganz Baden-Württemberg.
+              Mit über 20 Jahren Erfahrung in der Solarbranche macht Solar Black Panther Sie unabhängig von steigenden Energiepreisen. Wir sind Ihr Partner für hochwertige Photovoltaik-Anlagen, Wärmepumpen und energetische Sanierungen in Karlsruhe und ganz Baden-Württemberg.
             </p>
             <div className="bg-emerald-600/20 backdrop-blur-sm border border-emerald-500/30 p-4 rounded-xl mb-8">
               <p className="text-white text-sm font-semibold">
