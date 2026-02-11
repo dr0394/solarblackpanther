@@ -42,7 +42,7 @@ export default function Trust() {
             Darauf können Sie vertrauen
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Mit 22 Jahren Solar-Erfahrung und 20 Jahren Heizungs-Bau setzen wir auf nachhaltige Produkte, starke Partner und geschulte Teams. Qualität statt Masse - das ist unser Versprechen.
+            Mit 20 Jahren Solar-Erfahrung und 20 Jahren Heizungs-Bau setzen wir auf nachhaltige Produkte, starke Partner und geschulte Teams. Qualität statt Masse - das ist unser Versprechen.
           </p>
         </div>
 
