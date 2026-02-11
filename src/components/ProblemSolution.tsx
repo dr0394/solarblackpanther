@@ -69,7 +69,7 @@ export default function ProblemSolution() {
 
         <div className="mt-16 rounded-2xl overflow-hidden shadow-2xl">
           <img
-            src="https://alkaio.com/media/1434554884866212.jpeg"
+            src="https://alkaio.com/media/757084097479807.jpeg"
             alt="Moderne Solaranlage und Wärmepumpe für nachhaltiges Wohnen"
             className="w-full h-auto md:h-[500px] object-contain md:object-cover"
           />
