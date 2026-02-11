@@ -58,7 +58,7 @@ export default function Services() {
 
         <div className="mt-16 rounded-2xl overflow-hidden shadow-2xl">
           <img
-            src="https://alkaio.com/media/25409323492092372.jpeg"
+            src="https://alkaio.com/media/3386625894822845.jpeg"
             alt="Professionelle Installation von Solar- und Wärmepumpenanlagen"
             className="w-full h-[400px] object-contain bg-gray-100"
           />

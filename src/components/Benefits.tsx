@@ -72,10 +72,10 @@ export default function Benefits() {
 
         <div className="mt-16 rounded-2xl overflow-hidden shadow-2xl">
           <img
-  src="https://alkaio.com/media/1384877615978446.jpeg"
-  alt="Energieeffiziente Gebäude mit Solar und Wärmepumpe"
-  className="w-full max-h-[500px] object-contain bg-black/20"
-/>
+            src="https://alkaio.com/media/906188678490234.jpeg"
+            alt="Energieeffiziente Gebäude mit Solar und Wärmepumpe"
+            className="w-full max-h-[500px] object-contain bg-black/20"
+          />
         </div>
       </div>
     </section>
